@@ -1,0 +1,1 @@
+it's the python client for the fastdfs.the fastdfs is the most popula open source project,and developed by the person of yahoo.
